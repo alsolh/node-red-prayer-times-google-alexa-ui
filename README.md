@@ -1,7 +1,7 @@
 # node-red-prayer-times-google-alexa-ui
 Prayer times flow to call api and announce prayer times in alexa, google assistant and show in node red ui
 
-![Alt text](2021-12-27_16-06-37.png.png?raw=true "Node Red Flow")
+![Node Red Flow](2021-12-27_16-06-37.png?raw=true "Node Red Flow")
 
 ```
 [
