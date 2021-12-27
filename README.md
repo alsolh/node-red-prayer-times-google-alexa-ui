@@ -1,6 +1,8 @@
 # node-red-prayer-times-google-alexa-ui
 Prayer times flow to call api and announce prayer times in alexa, google assistant and show in node red ui
 
+for more info on alexa workaround to announce tts, please check https://github.com/thorsten-gehrig/alexa-remote-control
+
 ![Node Red Flow](2021-12-27_16-06-37.png?raw=true "Node Red Flow")
 
 ```
