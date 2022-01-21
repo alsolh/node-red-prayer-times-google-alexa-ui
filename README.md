@@ -5,6 +5,8 @@ for more info on alexa workaround to announce tts, please check https://github.c
 
 ![Node Red Flow](2021-12-27_16-06-37.png?raw=true "Node Red Flow")
 
+![Prayer Times UI](prayer-times-ui.png?raw=true "Prayer Times UI")
+
 ```
 [
     {
